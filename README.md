@@ -9,14 +9,12 @@ Her türlü soru ve bilgi için salihbozdemir1@gmail.com adresine mail atabilirs
 
 
 ## SB CMS v0.1
-![SB CMS v0.1](http://prntscr.com/joka6u)
-"SB CMS Tarayıcı Görünümü")
+[SB CMS v0.1](http://prntscr.com/joka6u)
+("SB CMS Tarayıcı Görünümü")
 
-**[SB CMS v0.1 Demo](https://colorlib.com/polygon/gentelella/index.html)**
+**[SB CMS v0.1 Demo](http://sbcms.salihbozdemir.com)**
 
 ## Dökümantasyon
-
-
 
 
 ## Dahil olan scriptler :
