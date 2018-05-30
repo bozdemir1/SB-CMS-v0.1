@@ -9,10 +9,10 @@ Her türlü soru ve bilgi için salihbozdemir1@gmail.com adresine mail atabilirs
 
 
 ## SB CMS v0.1
-[SB CMS v0.1](http://prntscr.com/joka6u)
+[SB CMS v0.1](http://prntscr.com/jom42q)
 ("SB CMS Tarayıcı Görünümü")
 
-**[SB CMS v0.1 Demo](http://sbcms.salihbozdemir.com)**
+**[SB CMS v0.1 Demo](http://sbcms.salihbozdemir.com/admin)**
 
 ## Dökümantasyon
 
