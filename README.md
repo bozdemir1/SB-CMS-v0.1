@@ -15,7 +15,7 @@ Her türlü soru ve bilgi için salihbozdemir1@gmail.com adresine mail atabilirs
 **[SB CMS v0.1 Demo](http://sbcms.salihbozdemir.com/admin)**
 
 ## Dökümantasyon
-##Giriş Bilgileri
+### Giriş Bilgileri
 kullanıcı adı:admin
 şifre:demo
 
