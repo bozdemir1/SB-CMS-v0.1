@@ -55,7 +55,7 @@ $kullanicicek=$kullanicisor->fetch(PDO::FETCH_ASSOC);
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
-              <a href="index.html" class="site_title"><i class="fa fa-paw"></i> <span>SB CMS v0.1</span></a>
+              <a href="index.php" class="site_title"><i class="fa fa-paw"></i> <span>SB CMS v0.1</span></a>
             </div>
 
             <div class="clearfix"></div>
@@ -121,6 +121,7 @@ $kullanicicek=$kullanicisor->fetch(PDO::FETCH_ASSOC);
                     <span class=" fa fa-angle-down"></span>
                   </a>
                   <ul class="dropdown-menu dropdown-usermenu pull-right">
+				    <li><a href="http://sbcms.salihbozdemir.com"> Siteyi Gör</a></li>
                     <li><a href="kullanici-profil.php"> Profil</a></li>
                     <li><a href="logout.php"><i class="fa fa-sign-out pull-right"></i>Çıkış </a></li>
                   </ul>
