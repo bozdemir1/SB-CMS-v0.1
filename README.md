@@ -19,6 +19,10 @@ Her türlü soru ve bilgi için salihbozdemir1@gmail.com adresine mail atabilirs
 kullanıcı adı:admin
 şifre:demo
 
+Editör olarak giriş için:
+kullanıcı adı:editor
+şifre:editor
+
 ## Dahil olan scriptler :
 * Bootstrap
 * Font Awesome
@@ -26,5 +30,3 @@ kullanıcı adı:admin
 * select2
 
 
-
-Proje Salih Bozdemir tarafından kodlanmıştır.
